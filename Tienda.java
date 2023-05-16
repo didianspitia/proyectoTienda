@@ -1,4 +1,3 @@
-package com.mycompany.proyecto;
 public class Tienda {
     private int id;
     private String nombre;
