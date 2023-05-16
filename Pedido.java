@@ -1,5 +1,3 @@
-package com.mycompany.proyecto;
-
 public class Pedido {
     private String id;
     private String producto;
