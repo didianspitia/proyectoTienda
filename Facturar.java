@@ -1,5 +1,3 @@
-package com.mycompany.proyecto;
-
 public class Facturar {
     private String id;
     private String fecha;
