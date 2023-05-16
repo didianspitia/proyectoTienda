@@ -1,4 +1,3 @@
-package com.mycompany.proyecto;
 public class Empleado {
     private int id;
     private String nombre;
