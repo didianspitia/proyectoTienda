@@ -1,5 +1,3 @@
-package com.mycompany.proyecto;
-
 public class Provedor {
     String id;
     String nombre;
