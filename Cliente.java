@@ -1,5 +1,3 @@
-package com.mycompany.proyecto;
-
 public class Cliente {
     private int id;
     private String nombre;
